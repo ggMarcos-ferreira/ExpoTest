@@ -1,0 +1,2 @@
+# ExpoTest
+Aplicação com Expo 
